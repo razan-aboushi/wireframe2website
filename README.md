@@ -2,7 +2,7 @@
 
 ### We convert this four images to HTML codes by using Visual studio code.
 
-### Here the Home page image ![Home page](Homepage.png)
-### Here the Products page image ![Products page](Products%20Page.png)
-### Here the Company image [Company](Company.png)
-### Here the More image [More](More.png)
++ Here the Home page image ![Home page](Homepage.png)
++ Here the Products page image ![Products page](Products%20Page.png)
++ Here the Company image ![Company](Company.png)
++ Here the More image ![More](More.png)
